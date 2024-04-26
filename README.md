@@ -2,9 +2,7 @@
 - 👀 I’m interested in Digital Marketing 
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on community maneger or digital marketing
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: I´m very oginized and be comitment with the tasks 
 
 <!---
 lissmgb/lissmgb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
